@@ -11,6 +11,8 @@ Pig_zero is a machine learning project that has been trained using both public d
 Currently, I am training my model in a way similar to ecjwg, using low-rank adaptation with the peft package. However, I am facing significant limitations due to a lack of computational power and high-quality Chinese data samples available on the internet. As a result, the performance of the model is greatly restricted. 
 
 
+### Playground
+[Colab](https://colab.research.google.com/drive/1SClKxoSKvYeUpiilF7TtTZs-tHp6eucf?usp=sharing) 
 
 
 **Update: March 24, 2023 - Version 0.1 has much better response rates in both languages.**

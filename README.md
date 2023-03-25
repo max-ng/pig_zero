@@ -1,6 +1,8 @@
 # 🐖pig_zero
 
-Fine-tuned LLaMA model on both English and Chinese
+## 基於LLaMA的中英文Instruction-following模型
+## Fine-tuned LLaMA model on both English and Chinese
+
 
 Pig_zero is a research project similar to the Stanford Alpaca Project, but supporting both English and Chinese. This project is for research purposes only and should not be used for commercial or business purposes.
 

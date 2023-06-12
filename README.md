@@ -1,6 +1,6 @@
 # 🐖pig_zero
 
-## 基於LLaMA的中英文Instruction-following模型
+## 首個基於LLaMA的中英文Instruction-following模型
 ## Fine-tuned LLaMA model on both English and Chinese
 
 
